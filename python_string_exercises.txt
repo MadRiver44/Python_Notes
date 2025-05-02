@@ -1,0 +1,63 @@
+# Python String Method Exercises
+
+## Basic String Operations
+1. Reverse a string without using slicing (`[::-1]`).
+2. Check if two strings are anagrams.
+3. Find the first non-repeating character in a string.
+4. Count the occurrences of a character in a string without using `count()`.
+5. Remove all vowels from a string.
+6. Find the most frequent character in a string.
+7. Replace multiple spaces in a string with a single space.
+8. Implement a function that trims leading and trailing spaces (without using `strip()`).
+9. Check if a string contains all the digits from 0 to 9.
+10. Capitalize the first letter of every word without using `title()`.
+
+## Substring and Searching
+11. Find all occurrences of a substring in a string.
+12. Check if a string is a rotation of another string.
+13. Extract all numeric digits from a string.
+14. Find the longest word in a string.
+15. Check if a string starts and ends with the same character.
+16. Find the position of the second occurrence of a substring.
+17. Find all words starting with a given letter in a sentence.
+18. Extract the domain name from an email address.
+19. Check if one string can be formed by reordering another (permutation check).
+20. Find the longest common prefix among a list of strings.
+
+## String Formatting & Cleaning
+21. Convert a string into a valid variable name (only alphanumeric and underscores).
+22. Convert a camelCase string to snake_case.
+23. Format a number in a string with commas as a thousand separator.
+24. Check if a string follows the format of a valid IPv4 address.
+25. Remove duplicate words from a sentence.
+26. Pad a string with leading zeros to make it a fixed width.
+27. Replace all punctuations with a space.
+28. Convert a list of words into a single hyphen-separated string.
+29. Remove a given word from a string.
+30. Convert an integer to a binary string without using `bin()`.
+
+## Advanced String Transformations
+31. Convert a string of comma-separated numbers into a list of integers.
+32. Convert a string to Pig Latin (move the first letter to the end and add "ay").
+33. Implement a basic version of `str.join()` for a list of strings.
+34. Count the number of palindromic substrings in a given string.
+35. Find the longest substring without repeating characters.
+36. Check if a string is a valid palindrome after removing non-alphanumeric characters.
+37. Implement a simple run-length encoding for a string.
+38. Expand a string with abbreviations like "a2b3" into "aabbb".
+39. Implement a function that extracts hashtags from a tweet.
+40. Convert a given string to Leetspeak (e.g., replace "e" with "3", "a" with "4", etc.).
+
+## Miscellaneous String Challenges
+41. Convert a given number to its Roman numeral representation.
+42. Find the longest palindromic substring in a given string.
+43. Check if a given string is a valid email address.
+44. Implement a function to find the edit distance between two strings.
+45. Write a function to determine if a string follows a given regex pattern.
+46. Convert a string with Unicode characters to ASCII equivalents.
+47. Split a string into chunks of a given size.
+48. Sort words in a sentence by length.
+49. Convert an English phrase into Morse code.
+50. Determine if two strings are one edit away from each other (insert, delete, replace one character).
+
+Try solving these exercises before checking the solutions!
